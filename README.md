@@ -1,0 +1,4 @@
+panelify
+========
+
+Fancy jQuery panels

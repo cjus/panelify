@@ -2,5 +2,6 @@ panelify
 ========
 
 Fancy jQuery panels
-placeholder readme
+
+Demo at: http://jsfiddle.net/cjus/2dUjb/
 
